@@ -1,1 +1,1 @@
-<span style="purple"><h1>Shell Learning</h1></span>
+<h1><font color="purple">Shell Learning</font></h1>
