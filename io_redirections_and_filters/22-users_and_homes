@@ -1,2 +1,2 @@
 #!/bin/bash
-while IFS=: read -r u _ _ _ _ h _; do [ -n "$u" ] && [ -n "$h" ] && echo "User: $u Home Directory: $h"; done < /etc/passwd | sort
+cut -d: -f1,6 /etc/passwd | sort
