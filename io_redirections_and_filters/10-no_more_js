@@ -1,0 +1,2 @@
+chmod u+x
+find . -type f -name "*.js" -delete
