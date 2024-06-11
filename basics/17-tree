@@ -1,2 +1,2 @@
 #!/bin/bash
-17-tree
+mkdir -p ./welcome/to/school
